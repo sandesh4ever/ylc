@@ -1,0 +1,17 @@
+.select-type {
+  padding-bottom: 16px;
+}
+.account .visual {
+  height: 139px !important;
+}
+.alert .desc {
+  color: #fff;
+  font-size: 21px;
+  font-weight: 300;
+}
+.alert .number {
+  color: #fff;
+  font-size: 34px;
+  font-weight: 300;
+}
+ 
